@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "keypress": "registry:dt/keypress#2.0.3+20160317120654",
+    "node": "registry:env/node#6.0.0+20160902022231"
+  },
+  "dependencies": {
+    "express": "registry:npm/express#4.14.0+20160815112707"
+  }
+}
