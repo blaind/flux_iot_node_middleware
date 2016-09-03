@@ -1,0 +1,19 @@
+{
+	"atom": {
+		"rewriteTsconfig": true
+	},
+	"exclude": [
+		"node_modules"
+	],
+	"filesGlob": [
+		"**/*.ts",
+		"*.ts"
+	],
+	"files": [
+		"random.ts",
+		"typings/globals/node/index.d.ts",
+		"typings/index.d.ts",
+		"typings/modules/express/index.d.ts"
+	],
+	"compilerOptions": {}
+}
