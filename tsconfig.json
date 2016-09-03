@@ -10,9 +10,10 @@
 		"*.ts"
 	],
 	"files": [
-		"random.ts",
+		"app.ts",
 		"typings/globals/node/index.d.ts",
 		"typings/index.d.ts",
+		"typings/modules/body-parser/index.d.ts",
 		"typings/modules/express/index.d.ts"
 	],
 	"compilerOptions": {}
